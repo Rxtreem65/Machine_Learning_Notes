@@ -3,5 +3,5 @@ This repo contains my compilation of codes, resources and hands on tutorials for
 
 ## Outline
 1. [Exploratory Data Analysis](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Exploratory%20Data%20Analysis%20(EDA))
-2. [Machine Learning](Machine Learning/README.md)
+2. [Machine Learning](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Machine%20Learning)
 3. Deep Learning
