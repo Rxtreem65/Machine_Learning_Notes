@@ -3,7 +3,7 @@
 - Regression is a form ML technique which help investigate the relationship between a dependent and independent variable.
 - mainly used for forecasting, time series modeling and finding the causal relationship between variables.
 - There are mainly following **types of regression**:
- * Linear regression
+ * [Linear regression]
  * Multiple linear regression
  * Logistic regression
  * polynomial regression
