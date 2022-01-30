@@ -1,9 +1,9 @@
 # Regression
-    - It is a supervised learning technique
-    - Regression is a form ML technique which help investigate the relationship between a dependent and independent variable.
-    - mainly used for forecasting, time series modeling and finding the causal relationship between variables.
+- It is a supervised learning technique
+- Regression is a form ML technique which help investigate the relationship between a dependent and independent variable.
+- mainly used for forecasting, time series modeling and finding the causal relationship between variables.
 
-    - There are mainly following **types of regression**:
+- There are mainly following **types of regression**:
      * [Linear regression](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Machine%20Learning/Supervised%20Learning/Regression/Linear%20regression)
      * Multiple linear regression
      * Logistic regression
