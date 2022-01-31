@@ -20,3 +20,14 @@ And based on Learning process Machine learning is classifed as follows:
 And based on Generalization
 - Model Based learning
 - Instance based learning
+
+## The work flow for Machine Learning
+- **Step 1:** Importing the libraries
+- **Step 2:** Loding Data
+- **Step 3:** Data Cleaning and Engineering
+  - **Step a:** Visualise and Experiment
+- **Step 4:** Split data as required
+- **Step 5:** Creating the model
+- **Step 6:** Checking the accuracy
+- **Step 7:** Visualization of the model/rediction
+- **Step 8:** Optimization if required 
