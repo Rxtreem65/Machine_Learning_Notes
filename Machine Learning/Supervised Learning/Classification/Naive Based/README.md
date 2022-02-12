@@ -8,7 +8,7 @@
 ### 1. Marginal Probability
 - It is the probability of all the favorble events upon the total events.
 - It is denotes as follows: 
-<img src="https://render.githubusercontent.com/render/math?math=P(A) = \frac{\textit{Event A occured}} {\textit{All the outcomes}}">
+<img src="https://render.githubusercontent.com/render/math?math=P(A) = \frac{Event A occured}{All the outcomes}">
 
 $$P(A) = \frac{Event A occured} {All the outcomes}$$
 
@@ -20,7 +20,7 @@ $$P(A) = \frac{Event A occured} {All the outcomes}$$
 
 ### 3. Joint Probability
 - It is probability of an event say **A** and **B** to ocuur simultaniously. 
-- It can be denoted as follows:<img src="https://render.githubusercontent.com/render/math?math=P(\textit(A and B)">
+- It can be denoted as follows:<img src="https://render.githubusercontent.com/render/math?math=P(A and B)">
 
 
 # Bayes Theorem
@@ -41,9 +41,9 @@ Posterior = Likelihood * Prior / Evidence
 # Naive Bayes
 - It is a classification algorithm beloging to supervised machine learning based on Bayes Theorem.
 - Naive Bayes is has three types as follows:
-    1. Guassian Naive Bayes
-    2. Bernouli Naive Bayes
-    3. Mutltinodal Naive Bayes
+    1. [Guassian Naive Bayes]
+    2. [Bernouli Naive Bayes]
+    3. [Mutltinodal Naive Bayes]
     
 - Uses:
     * It is very effective in text classification that contains training dataset of high dimensionality.
