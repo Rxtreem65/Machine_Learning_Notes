@@ -14,6 +14,9 @@ $$P(A) = \frac{Event A occured} {All the outcomes}$$
 - It occurs when two dependent varibles or events are involved
 - It is probability of ocurance of an event say **A** given that **B** has already occured, where A and B are dependent events.
 - It can be denoted as follows: 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="P(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)}" />
+
+
 $$P(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)}$$
 
 
