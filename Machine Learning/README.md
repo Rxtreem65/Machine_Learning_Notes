@@ -4,7 +4,7 @@ The ability of machine to learn and understand data for classification or predic
 Machine learning can broadly classfied into four categories:
 1. [Supervised Learning](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Machine%20Learning/Supervised%20Learning): In supervised learning the training data consists of both input and its 
     - [Regression](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Machine%20Learning/Supervised%20Learning/Regression)
-    - Classification
+    - [Classification](https://github.com/Rxtreem65/Machine_Learning_Notes/tree/main/Machine%20Learning/Supervised%20Learning/Classification)
 2. Unsupervised Learning:
     - Clustering
     - Association
