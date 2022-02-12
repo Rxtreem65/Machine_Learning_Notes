@@ -42,7 +42,7 @@ Posterior = Likelihood * Prior / Evidence
 - It is a classification algorithm beloging to supervised machine learning based on Bayes Theorem.
 - Naive Bayes is has three types as follows:
     1. [Guassian Naive Bayes]
-    2. [Bernouli Naive Bayes]
+    2. [Bernouli Naive Bayes](https://github.com/Rxtreem65/Machine_Learning_Notes/blob/main/Machine%20Learning/Supervised%20Learning/Classification/Naive%20Based/Bernoulli_Naive_Bayes.ipynb)
     3. [Mutltinodal Naive Bayes]
     
 - Uses:

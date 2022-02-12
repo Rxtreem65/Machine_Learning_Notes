@@ -4,10 +4,10 @@
 - mainly used for forecasting, time series modeling and finding the causal relationship between variables.
 
 - There are mainly following **types of regression**:
-     * [Linear regression]()
+     * [Linear regression](https://github.com/Rxtreem65/Machine_Learning_Notes/blob/main/Machine%20Learning/Supervised%20Learning/Regression/into_to_linear_regression.ipynb)
      * Multiple linear regression
      * Logistic regression
-     * polynomial regression
+     * [Polynomial regression](https://github.com/Rxtreem65/Machine_Learning_Notes/blob/main/Machine%20Learning/Supervised%20Learning/Regression/polynomial_regression.ipynb)
      * Lasso regression 
      * Ridge regression
      * Stepwise regression
