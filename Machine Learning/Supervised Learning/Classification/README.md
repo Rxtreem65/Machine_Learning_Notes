@@ -11,7 +11,8 @@
 
 ### 2. Conditional Probability
 - It occurs when two dependent varibles or events are involved
-- It is probability of ocurance of an event **A
+- It is probability of ocurance of an event say **A** given that **B** has already occured, where A and B are dependent events.
+- It can be denoted as follows: $ p(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)} $
 
 
 
