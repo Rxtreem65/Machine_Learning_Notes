@@ -7,12 +7,12 @@
     
 ### 1. Marginal Probability
 - It is the probability of all the favorble events upon the total events.
-- It is denotes as follows: $P(A) = \frac{Event A occured} {All the outcomes}$
+- It is denotes as follows: $$P(A) = \frac{Event A occured} {All the outcomes}$$
 
 ### 2. Conditional Probability
 - It occurs when two dependent varibles or events are involved
 - It is probability of ocurance of an event say **A** given that **B** has already occured, where A and B are dependent events.
-- It can be denoted as follows: $ p(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)} $
+- It can be denoted as follows: $$ p(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)} $$
 
 
 
@@ -26,7 +26,7 @@
 It projects the probability of an event A on that of another event B.
 
 Naive bayes algorithm: 
-$ p(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)} $
+$$ p(frac{A}{B}) = \frac{P(\frac{B}{A}) P(A)}{P(B)} $$
 
 It is a classification algorithm beloging to supervised machine learning based on Bayes Theorem.
 
