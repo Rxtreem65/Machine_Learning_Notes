@@ -69,4 +69,25 @@ CART: Classificiation and regression Tree
     b. gini index:
     - gini index is a measure of impurity or purity used while creating a decision tree in the CART (Classification and regression tree) algorithm.
     
-    - 
+    - an anttribute with the low gini index should be preferred as compared to the high gini index.
+    - it only creates binaray splits, and the CART algorithm uses the Gini index to create binary splits.
+    
+    <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="
+    Gini = 1 - \sum_{i=1}^c(p_i)^2"/>
+    
+## How to solve problem of overfitting
+    
+**Pruning:** Getting an optimal decision tree pruning is a process of deleting the unnecessary nodes from a tree in order to get the optimal decision tree.
+
+A too-large tree increases the risk of overfitting, and a small tree may not capture all the important features of dataset.
+
+a technique that decreases the size of the learning tree without reducing accuracy is known as Prunning.
+
+There are mainly two types of tree pruning technology unsed:
+
+    1. Cost Complexity Prunning
+    2. Reduced Error Prunning
+    
+
+    
+    
